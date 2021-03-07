@@ -1,2 +1,2 @@
-# Programlamaya-Giris
-C++ dersleri ve örnekleri
+# C++ DERSLERİNİN KODLARIDIR.YOUTUBE KANALIMDAN DERS VİDEOLARIMI İZLEYEBİLİRSİNİZ.
+## KANALIMIN LİNKİ https://www.youtube.com/channel/UCk-7h_R85BH3gBH3VlUvmKQ
